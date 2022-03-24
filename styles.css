@@ -1,0 +1,13 @@
+h1 {
+	color: white;
+	width: 500px;
+	height: 100px;
+	margin: auto;
+	padding-top: 46px;
+	text-align: center;
+	margin-top: 200px;
+	font-weight: bold;
+	background-color: dodgerblue;
+	border-radius: 5px 5px 5px;
+	border: 2px solid black
+}
