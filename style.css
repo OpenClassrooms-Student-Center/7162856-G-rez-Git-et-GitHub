@@ -1,13 +1,16 @@
 *
 {
-    transition-duration: 0.5s; 
+    transition-duration: 0.5s;
 }
 h1
 {
-    color: red;
-    transform: scale(1);
+    color: black;
 }
 h1:hover
 {
-    color: blue;
+    color: red;
+}
+h2
+{
+    color: black;
 }
