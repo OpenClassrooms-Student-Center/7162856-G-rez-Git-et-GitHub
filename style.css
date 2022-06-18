@@ -1,3 +1,12 @@
+body{
+    background: rgb(33, 5, 82);
+}
 h1 {
-    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:80vh;
+    font-size : 3rem;
+    letter-spacing : 10px;
+    color: rgb(199, 197, 211);
 }
