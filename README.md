@@ -8,5 +8,5 @@ Pour cloner le projet en local sur votre machine, copiez l'URL de ce repo et lan
 
 Aide pour créer la pull request:
 - Faire un fork du projet
-- Changer la remote URL: git remote set-url origin git@github.com:your_user_name/7162856-G-rez-Git-et-GitHub.git
-- Enfin git push -u origin main
+- Changer la remote URL: `git remote set-url origin git@github.com:your_user_name/7162856-G-rez-Git-et-GitHub.git`
+- Enfin `git push -u origin main`
