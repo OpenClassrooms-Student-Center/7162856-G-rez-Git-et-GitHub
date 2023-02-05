@@ -1,3 +1,23 @@
 h1 {
-    color: blue;
+    color: orange;
+    font-size: 1rem;
+    animation-name: hop-hop-hop;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes hop-hop-hop
+{
+
+    0%
+    {
+        font-size: 1rem;
+    }
+    100%
+    {
+        font-size: 5rem;
+        color: lightgreen;
+    }
 }
