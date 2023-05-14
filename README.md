@@ -8,4 +8,6 @@ Pour cloner le projet en local sur votre machine, copiez l'URL de ce repo et lan
 
 Modification effectuée
 
+Pour test conflit
+
 
