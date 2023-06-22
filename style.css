@@ -1,3 +1,12 @@
 h1 {
     color: red;
 }
+
+h2{
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    background-color: chocolate;
+    color: cornflowerblue;
+    text-shadow: 1px -1px 2px salmon;
+}
